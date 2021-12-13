@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+h1{
+    font-size: 150px;
+    border: black;
+    justify-content: center;
+    display: flex;
+    color: rgb(57, 199, 209);
+}
+
+.search{
+    justify-content: center;
+    background-color: rgb(185, 179, 179);
+    
+}
